@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zhangs/vscode/netcodemvctest/MyMvc/MyMvc.csproj": {}
+  },
+  "projects": {
+    "/home/zhangs/vscode/netcodemvctest/MyMvc/MyMvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zhangs/vscode/netcodemvctest/MyMvc/MyMvc.csproj",
+        "projectName": "MyMvc",
+        "projectPath": "/home/zhangs/vscode/netcodemvctest/MyMvc/MyMvc.csproj",
+        "packagesPath": "/home/zhangs/.nuget/packages/",
+        "outputPath": "/home/zhangs/vscode/netcodemvctest/MyMvc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zhangs/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/zhangs/.dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
